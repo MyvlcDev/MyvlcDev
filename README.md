@@ -8,7 +8,7 @@
 
 ## Acerca de mí
 
-Soy un desarrollador apasionado por la tecnología y el código abierto. Me gusta trabajar en proyectos que desafían mis habilidades y me permiten aprender cosas nuevas.
+Soy un apasionado de la tecnología y el código abierto. Me gusta trabajar en proyectos que desafían mis habilidades y me permiten aprender cosas nuevas.
 
 
 ## Cómo Contribuir

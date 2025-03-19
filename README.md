@@ -1,4 +1,5 @@
-![logo](https://github.com/user-attachments/assets/8f3ecd6b-683d-42d4-88cc-e67024f7d37f)
+
+![horizontal](https://github.com/user-attachments/assets/a1fa0923-1de4-4fe1-8450-1bc0c4c7d8d2)
 
 
 - # Bienvenido a mi repositorio
